@@ -21,3 +21,20 @@ main {
 .fs-13{
   font-size: 13px;
 }
+
+.w-65{
+  width: 65%;
+}
+
+
+
+
+.nav-aside a:hover i {
+    color: dodgerblue;
+    opacity: 100%!important;
+}
+
+
+.nav-aside a:hover span{
+    opacity: 100%!important;
+}
