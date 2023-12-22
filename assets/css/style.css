@@ -1,0 +1,15 @@
+main {
+  margin-left: 25%;
+}
+.w-30 {
+  width: 30%;
+}
+.border-7 {
+  border-width: 7px!important;
+}
+.socail-network a {
+  width: 35px;
+  height: 35px;
+  display: flex;
+  flex-direction: column;
+}
